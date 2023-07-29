@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/sara-yunus-871b02225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sara yunus" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sara-yunus-871b02225" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="sara yunus" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/syunus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sara yunus" height="30" width="40" /></a>
 <a href="https://instagram.com/amble_long" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amble_long" height="30" width="40" /></a>
 <a href="https://medium.com/@sarayunus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sarayunus" height="30" width="40" /></a>
