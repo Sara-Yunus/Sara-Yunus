@@ -25,7 +25,7 @@
 <a href="https://www.kaggle.com/syunus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sara yunus" height="30" width="40" /></a>
 <a href="https://instagram.com/amble_long" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amble_long" height="30" width="40" /></a>
 <a href="https://medium.com/@sarayunus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sarayunus" height="30" width="40" /></a>
-<a href="/https://medium.com/feed/@sarayunus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@sarayunus" height="30" width="40" /></a>
+<!-- <a href="/https://medium.com/feed/@sarayunus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@sarayunus" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
