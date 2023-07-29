@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sara-yunus&label=Profile%20views&color=0e75b6&style=flat" alt="sara-yunus" /> </p>
 
-- 🔭 I’m currently working on **Classisc Women Writer Face Prediction Project**
+- 🔭 I’m currently working on **Women Writer Face Prediction Project**
 
 - 🌱 I’m currently learning **OpenCV**
 
