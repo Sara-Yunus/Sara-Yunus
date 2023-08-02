@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Women Writer Face Prediction Project**
 
-- 🌱 I’m currently learning **OpenCV**
+<!-- - 🌱 I’m currently learning **OpenCV** -->
 
 - 📝 I regularly write articles on [https://medium.com/@sarayunus](https://medium.com/@sarayunus)
 
