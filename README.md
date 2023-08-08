@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sarayunus](https://medium.com/@sarayunus)
 
-- 💬 Ask me about **Pyhton, SQL**
+- 💬 Ask me about **Python, SQL**
 
 - 📫 How to reach me **sarayunus05@gmail.com**
 
