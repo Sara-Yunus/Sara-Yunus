@@ -3,9 +3,9 @@
 <h3 align="center">A Data Science & Machine Learning learner.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/3Ayb.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sara-yunus&label=Profile%20views&color=0e75b6&style=flat" alt="sara-yunus" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sara-yunus&label=Profile%20views&color=0e75b6&style=flat" alt="sara-yunus" /> </p> -->
 
-- 🔭 I’m currently working on **Women Writer Face Prediction Project**
+- 🔭 I’m currently working on **1Food2Snakes**
 
 <!-- - 🌱 I’m currently learning **OpenCV** -->
 
