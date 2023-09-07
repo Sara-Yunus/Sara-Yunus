@@ -11,7 +11,7 @@
 
 <!-- - 📝 I regularly write articles on [https://medium.com/@sarayunus](https://medium.com/@sarayunus) -->
 
-- 💬 Ask me about **Python, SQL**
+<!-- - 💬 Ask me about **Python, SQL** -->
 
 - 📫 How to reach me **sarayunus05@gmail.com**
 
@@ -33,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sara-yunus&show_icons=true&locale=en&layout=compact" alt="sara-yunus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sara-yunus&show_icons=true&locale=en" alt="sara-yunus" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sara-yunus&show_icons=true&locale=en" alt="sara-yunus" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sara-yunus&" alt="sara-yunus" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sara-yunus&" alt="sara-yunus" /></p> -->
