@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sara-yunus&label=Profile%20views&color=0e75b6&style=flat" alt="sara-yunus" /> </p> -->
 
-- 🔭 I’m currently working on **1Food2Brains**
+<!-- 🔭 I’m currently working on **1Food2Brains** -->
 
 <!-- - 🌱 I’m currently learning **OpenCV** -->
 
